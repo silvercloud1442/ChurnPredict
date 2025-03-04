@@ -1,0 +1,7 @@
+catboost_info
+catboost_info/learn/events.out.tfevents
+catboost_info/time_left.tsv
+catboost_info/learn_error.tsv
+catboost_info/catboost_training.json
+.ipynb_checkpoints/ChurnPredict-checkpoint.ipynb
+.ipynb_checkpoints
